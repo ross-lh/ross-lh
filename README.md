@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDYxaDhvcDRpaWJ3dG83dnQycW8yMncyczQ4eW5seXc0YzU0MnVrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KfnA4bFrgq7eFWVsSK/giphy.gif" width=40% />
+### Hello! I'm Ross.
 
 :headphones: Noise and Vibration Analyst<br>
 :pager: Tech enthusiast<br>
