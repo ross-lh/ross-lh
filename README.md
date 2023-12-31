@@ -2,7 +2,7 @@
 
 :headphones: Noise and Vibration Analyst<br>
 :pager: Tech enthusiast<br>
-:car: Hybrid worker and traveler<br>
+:train: Hybrid worker<br>
 :brazil: Born and living in São Paulo, Brazil<br>
 
 ## :mailbox: Get in touch
