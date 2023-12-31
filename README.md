@@ -13,17 +13,16 @@ Feel free to contact me on my Instagram: [**@ross.lh**](https://instagram.com/ro
 
 These are some of the technologies and tools that I use:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=FFF)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?&style=flat-square&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?&style=flat-square&logo=sass&logoColor=FFF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?&style=flat-square&logo=mysql&logoColor=FFF)
-![Git](https://img.shields.io/badge/Git-F05032?&style=flat-square&logo=git&logoColor=FFF)
-![GitHub](https://img.shields.io/badge/GitHub-181717?&style=flat-square&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?&style=flat-square&logo=adobe-creative-cloud)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
 ##
 ### <img src="https://media.giphy.com/media/KEfHwQXN18LNqxDl93/giphy.gif" width=10% />
