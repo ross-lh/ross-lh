@@ -7,7 +7,7 @@
 
 ## :mailbox: Get in touch
 
-Feel free to contact me on any social media [**@ross.lh**](https://instagram.com/ross.lh) or by email **lhbenross@gmail.com** ✌🏻
+Feel free to contact me on my Instagram: [**@ross.lh**](https://instagram.com/ross.lh), LinkedIn: [**@ross-lh**](https://linkedin.com/in/ross-lh) or by email **lhbenross@gmail.com** ✌🏻
 
 ## :zap: Skills
 
@@ -15,7 +15,10 @@ These are some of the technologies and tools that I use:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=FFF)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?&style=flat-square&logo=css3)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?&style=flat-square&logo=sass&logoColor=FFF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?&style=flat-square&logo=mysql&logoColor=FFF)
 ![Git](https://img.shields.io/badge/Git-F05032?&style=flat-square&logo=git&logoColor=FFF)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?&style=flat-square&logo=github)
