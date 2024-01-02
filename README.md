@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDYxaDhvcDRpaWJ3dG83dnQycW8yMncyczQ4eW5seXc0YzU0MnVrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KfnA4bFrgq7eFWVsSK/giphy.gif" width=40% />
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDYxaDhvcDRpaWJ3dG83dnQycW8yMncyczQ4eW5seXc0YzU0MnVrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KfnA4bFrgq7eFWVsSK/giphy.gif" width=300px />
 
 :headphones: Noise and Vibration Analyst<br>
 :pager: Tech enthusiast<br>
@@ -13,7 +13,7 @@ Feel free to contact me on my Instagram: [**@ross.lh**](https://instagram.com/ro
 
 These are some of the technologies and tools that I use:
 
-[![My Skills](https://skillicons.dev/icons?i=autocad,bootstrap,css,git,github,html,ai,linux,mysql,ps,php,py,sketchup,vscode,flutter&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=autocad,bootstrap,css,git,github,html,ai,linux,mysql,ps,php,py,sketchup,vscode&perline=7)](https://skillicons.dev)
 
 ##
 ### <img src="https://media.giphy.com/media/KEfHwQXN18LNqxDl93/giphy.gif" width=10% />
