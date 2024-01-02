@@ -3,7 +3,7 @@
 :headphones: Noise and Vibration Analyst<br>
 :pager: Tech enthusiast<br>
 :train: Hybrid worker<br>
-:brazil: Born and living in São Paulo, Brazil<br>
+:brazil:  Born and living in São Paulo, Brazil<br>
 
 ## :mailbox: Get in touch
 
