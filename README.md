@@ -13,7 +13,7 @@ Feel free to contact me on LinkedIn: [**@ross-lh**](https://linkedin.com/in/ross
 
 These are some of the technologies and tools that I use:
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,git,github,html,linux,mysql,php,py,vscode&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,git,github,html,linux,mysql,php,py,vscode&perline=5)](https://skillicons.dev)
 
 ##
 ### <img src="https://media.giphy.com/media/KEfHwQXN18LNqxDl93/giphy.gif" width=10% />
