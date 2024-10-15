@@ -5,11 +5,11 @@
 📟 Tech enthusiast<br>
 🌎 Born and living in São Paulo, Brazil<br>
 
-## :mailbox: Get in touch
+## 📥 Get in touch
 
 Feel free to contact me on LinkedIn: [**@ross-lh**](https://linkedin.com/in/ross-lh), Instagram: [**@ross.lh**](https://instagram.com/ross.lh) or by email **lhbenross@gmail.com** ✌🏻
 
-## :zap: Skills
+## ⚡ Skills
 
 These are some of the technologies and tools that I use:
 
