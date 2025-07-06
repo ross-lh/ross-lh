@@ -14,8 +14,3 @@ Feel free to contact me on LinkedIn: [**@ross-lh**](https://linkedin.com/in/ross
 These are some of the technologies and tools that I use:
 
 ### [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,mysql,php,py,linux,vscode&perline=15)](https://skillicons.dev)
-
-##
-### <img src="https://media.giphy.com/media/KEfHwQXN18LNqxDl93/giphy.gif" width=10% />
-<a><i>Love connecting with multiple areas and learning about them. So if you live a completely different reality, I wanna know all about it.</i></a>
-<br>
