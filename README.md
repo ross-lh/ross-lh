@@ -1,16 +1,30 @@
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDYxaDhvcDRpaWJ3dG83dnQycW8yMncyczQ4eW5seXc0YzU0MnVrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KfnA4bFrgq7eFWVsSK/giphy.gif" width=300px />
+### <h1> Hello, I'm Ross!👋</h1>
 
-🎧 Noise and Vibration Analyst<br>
-👨‍🔬 Tech & Science student @ Federal University of ABC<br>
+👨‍💻 Full Stack student<br>
+👨‍🔬 Data Science @ UNIVESP<br>
 📟 Tech enthusiast<br>
-🌎 Born and living in São Paulo, Brazil<br>
+🌎 Born and living in Brazil<br>
 
 ## 📥 Get in touch
 
-Feel free to contact me on LinkedIn: [**@ross-lh**](https://linkedin.com/in/ross-lh), Instagram: [**@ross.lh**](https://instagram.com/ross.lh) or by email **lhbenross@gmail.com** ✌🏻
+#### LinkedIn: [**@ross-lh**](https://linkedin.com/in/ross-lh)
+#### Instagram: [**@ross.lh**](https://instagram.com/ross.lh)
+#### e-mail:  **lhbenross@gmail.com**
 
 ## ⚡ Skills
 
-These are some of the technologies and tools that I use:
+These are some of the tech and tools that I study:
 
-### [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,mysql,php,py,linux,vscode&perline=15)](https://skillicons.dev)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=FFFFFF)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=FFFFFF)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![MSTerminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF)
