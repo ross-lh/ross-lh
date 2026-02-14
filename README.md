@@ -7,8 +7,8 @@
 
 ## 📥 Get in touch
 
-LinkedIn: [**@ross-lh**](https://linkedin.com/in/ross-lh)
-Instagram: [**@ross.lh**](https://instagram.com/ross.lh)
+LinkedIn: [**@ross-lh**](https://linkedin.com/in/ross-lh)<br>
+Instagram: [**@ross.lh**](https://instagram.com/ross.lh)<br>
 e-mail: **lhbenross@gmail.com**
 
 ## ⚡ Skills
